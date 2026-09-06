@@ -80,4 +80,4 @@ USA_Traffic_Accident_Analysis/
 
 ## 📸 Dashboard Preview
 
-![USA Traffic Accident Dashboard](images/dashboard.png)
+![USA Traffic Accident Dashboard](USA_Traffic_Accident_Analysis/images/dashboard.png)
