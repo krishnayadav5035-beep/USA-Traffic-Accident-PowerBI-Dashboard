@@ -81,3 +81,6 @@ USA_Traffic_Accident_Analysis/
 ## 📸 Dashboard Preview
 
 ![USA Traffic Accident Dashboard](USA_Traffic_Accident_Analysis/images/dashboard.png)
+## 📊 Power BI Dashboard
+
+[Download Power BI Dashboard](https://github.com/krishnayadav5035-beep/USA-Traffic-Accident-PowerBI-Dashboard/releases/tag/v1.0)
